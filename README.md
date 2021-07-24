@@ -4,7 +4,6 @@ Goal-oriented, quick learner and task-oriented IT specialist with a background o
 
 First started coding on Java and Python and moved on to PHP in which I have got more involved. Have 1+ years of experience in PHP including object oriented programming.
 
-Skills: PHP / Laravel / MySql / JS / HTML and etc.
 
 - 🔭 I’m currently working at MAS Solutions.
 
