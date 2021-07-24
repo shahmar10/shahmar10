@@ -21,4 +21,3 @@ Skills: PHP / Laravel / MySql / JS / HTML and etc.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahmar10&show_icons=true&locale=en&layout=compact" alt="shahmar10" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahmar10&show_icons=true&locale=en" alt="shahmar10" /></p>
