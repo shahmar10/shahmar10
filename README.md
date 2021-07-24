@@ -6,7 +6,7 @@ First started coding on Java and Python and moved on to PHP in which I have got 
 
 Skills: PHP / Laravel / MySql / JS / HTML and etc.
 
-- 🔭 I’m currently working at MAS Solutions company 
+- 🔭 I’m currently working at MAS Solutions.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/github.com/shahmar10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sahmar-quluzade-48a0101b9//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/shahmar.quluzada//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/c/shahmar-quluzada)  
