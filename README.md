@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Shahmar
+### Hi 👋, my name is Shahmar
 #### I am Backend Developer
 Goal-oriented, quick learner and task-oriented IT specialist with a background of Cyber security. As an experienced PHP developer, I am proficient at using Laravel framework for creating web applications. I have created multiple websites using Laravel that utilised clean and readable code.
 
