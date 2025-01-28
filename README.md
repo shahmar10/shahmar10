@@ -1,8 +1,6 @@
 ### Hi 👋, my name is Shahmar
 #### I am Backend Developer
-Goal-oriented, quick learner and task-oriented IT specialist with a background of Cyber security. As an experienced PHP developer, I am proficient at using Laravel framework for creating web applications. I have created multiple websites using Laravel that utilised clean and readable code.
-
-First started coding on Java and Python and moved on to PHP in which I have got more involved. Have 1+ years of experience in PHP including object oriented programming.
+Goal-oriented, quick learner and task-oriented Software Engineer specialist with a background of Cyber security. I have created multiple web apps that utilised clean and readable code. I have implemented many integrations and worked with technologies. (Aws, Kafka, Payment Integrations, Vimeo, DIGITAL Login, DIGITAL SIGN)
 
 
 <h3 align="left">Languages and Tools:</h3>
